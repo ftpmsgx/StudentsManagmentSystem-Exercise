@@ -1,1 +1,0 @@
-# StudentsManagmentSystem-Exercise
